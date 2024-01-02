@@ -5,11 +5,12 @@
   <a href="https://t.me/koo_0ki">
     <img src="https://shields.io/badge/telegram-blue?logo=telegram" alt="Discord Badge"/>
   </a>
+  </a>
 </div>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="NodeJS" alt="python" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg](https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg)https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="python" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg](https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg)https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
 </div>
