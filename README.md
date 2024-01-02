@@ -16,7 +16,7 @@
 
 ### :woman_technologist: About Me :
 <div align="center">
-  I am a NodeJS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia
+  I am a NodeJS Developer
   - :telescope: I’m writes Discord/Telagram bots to custom
 </div>
 
