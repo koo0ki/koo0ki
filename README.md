@@ -5,8 +5,12 @@
   <a href="https://t.me/koo_0ki">
     <img src="https://shields.io/badge/telegram-blue?logo=telegram" alt="Discord Badge"/>
   </a>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=koo0ki&style=flat-square&color=blue" alt=""/>
 </div>
+<h1>
+  Welcome to my profile
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
