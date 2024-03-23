@@ -29,6 +29,7 @@ I am a NodeJS Developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="NodeJS" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="python" width="40" height="40"/>&nbsp;
+    <img src="https://avatars.githubusercontent.com/u/19467103?s=200&v=4" title="coex" alt="coex" width="40" height="40"/>&nbsp;
 </div>
 
 ---
