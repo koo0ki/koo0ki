@@ -1,5 +1,5 @@
 <div id="badges">
-  <a href="https://discord.gg/kU7pE8TAgJ">
+  <a href="https://discord.com/users/885448852872790107">
     <img src="https://shields.io/badge/discord-blue?logo=discord" alt="Discord Badge"/>
   </a>
   <a href="https://t.me/koo_0ki">
