@@ -19,7 +19,7 @@
 I am a NodeJS Developer
 </div>
   
-- :telescope:I’m writes Discord/Telegram bots to custom
+- :telescope:I’m writing Discord/Telegram bots to custom
 
 ---
 
