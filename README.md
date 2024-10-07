@@ -34,7 +34,6 @@ I am a NodeJS Developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="python" width="40" height="40"/>&nbsp;
     <img src="https://avatars.githubusercontent.com/u/19467103?s=200&v=4" title="coex" alt="coex" width="40" height="40"/>&nbsp;
-</div>
 <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ROS-Light.svg#L4" title="ros" alt="ros" width="40" height="40"/>&nbsp;
 </div>
 
