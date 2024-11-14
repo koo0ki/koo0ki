@@ -40,4 +40,4 @@ I am a NodeJS Developer
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=koo0ki&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=koo0ki)](https://git.io/streak-stats)
