@@ -1,3 +1,13 @@
+<div id="badges">
+  <a href="https://discord.com/users/885448852872790107">
+    <img src="https://shields.io/badge/discord-blue?logo=discord" alt="Discord Badge"/>
+  </a>
+  <a href="https://t.me/koo_0ki">
+    <img src="https://shields.io/badge/telegram-blue?logo=telegram" alt="Discord Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=koo0ki&style=flat-square&color=blue" alt=""/>
+</div>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Koo0ki
 ==============================================================================================================================
 
