@@ -32,5 +32,3 @@ I have been developing bots and backend for more than 4 years
 
 ---
 [![](https://visitcount.itsvg.in/api?id=koo0ki&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
